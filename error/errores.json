@@ -3,5 +3,6 @@
     "UAE":"User already exists",
     "IP":"Insecure password",
     "NA":"No arguments passed to the module",
-    "NP":"No password passed to the module"
+    "NP":"No password passed to the module",
+    "PNS":"Password not secure"
 }
