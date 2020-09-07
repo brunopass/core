@@ -9,4 +9,4 @@ def passwd_hash(passwd):
         h.update(passwd.encode('utf-8'))
         return h.hexdigest()
     else:
-        raise Exception("Password not secure")
+        raise Exception(errores["PNS"])
